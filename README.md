@@ -14,6 +14,7 @@ Dockerized for easy deployment and testing
 Demonstrates best practices in Flask application development
    
 ## Usage
+
 ### Running Locally
 
 
@@ -31,6 +32,7 @@ python app.py
 
 ### 5. Access the application in your web browser at http://localhost:5000.
 
+
 ## Running with Docker
 
 ### 1. Clone the repository:(if not done already):
@@ -47,6 +49,7 @@ docker run -d -p 5000:5000 python-flask-app
 
 ### 5. Access the application in your web browser at http://localhost:5000.
 
+
 ## Running with Docker Compose
 
 ### 1. Clone the repository:(if not done already):
@@ -60,11 +63,14 @@ docker-compose up
 
 ### 4. Access the application in your web browser at http://localhost:5000.
 
+
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and submit pull requests to contribute to this project.
 
+
 ## License
 This project is licensed under the MIT License.
+
 
 ## Acknowledgments
 Special thanks to the Flask community for their valuable contributions and support.
