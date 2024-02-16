@@ -4,7 +4,7 @@
 
 Welcome to the Python Flask Application! This is a simple yet powerful Flask
 application designed for students and developers to learn and understand basic CRUD
-(Create, Read, Update, Delete) operations using Flask.
+(Create, Read, Update, Delete) operations using Flask. This is a simple application which print "Welcome".
   
 ## Features
 
@@ -18,7 +18,7 @@ Demonstrates best practices in Flask application development
 
 
 ### 1. Clone the repository:
-git clone https://github.com/yourusername/your-repository.git
+git clone [https://github.com/yourusername/your-repository.git](https://github.com/Nency-Ravaliya/python-app1.git)
 
 ### 2. Navigate to the project directory:
 cd your-repository
@@ -34,8 +34,8 @@ python app.py
 ## Running with Docker
 
 ### 1. Clone the repository:(if not done already):
-git clone https://github.com/yourusername/your-repository.git
-
+git clone [https://github.com/yourusername/your-repository.git
+](https://github.com/Nency-Ravaliya/python-app1.git)
 ### 2. Navigate to the project directory:
 cd your-repository
 
@@ -50,8 +50,8 @@ docker run -d -p 5000:5000 python-flask-app
 ## Running with Docker Compose
 
 ### 1. Clone the repository:(if not done already):
-git clone https://github.com/yourusername/your-repository.git
-
+git clone [https://github.com/yourusername/your-repository.git
+](https://github.com/Nency-Ravaliya/python-app1.git)
 ### 2. Navigate to the project directory:
 cd your-repository
 
